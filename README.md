@@ -5,7 +5,6 @@ This is a **simple AI-controlled snake game** built using **Pygame**. It follows
 1.**Automated Snake Movement:**
 
 - The snake moves automatically towards the food using an AI-based movement strategy.
-  
 - The AI determines the shortest path to the food and updates the snake's direction accordingly.
   
 2.**Food Mechanics:**
