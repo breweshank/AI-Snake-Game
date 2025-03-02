@@ -31,3 +31,7 @@ This is a **simple AI-controlled snake game** built using **Pygame**. It follows
 - The Food class randomly places food on the grid.
 - The ai_move function calculates the next move based on the food's position.
 - The main game loop updates the game state, moves the snake, checks for collisions, and redraws the screen.
+## Controls & Interaction:
+- This version of the game is fully AI-controlled, meaning there are no manual player controls.
+- The snake automatically moves towards the food and grows upon eating.
+- The game stops when the snake collides with itself or the wall.
