@@ -1,0 +1,11 @@
+AI-Snake-Game/
+│── src/
+│   ├── main.py          # Main game script
+│   ├── snake.py         # Snake class
+│   ├── food.py          # Food class
+│   ├── ai.py            # AI logic for snake movement
+│── assets/              # (Optional) Store images, sounds, or fonts
+│── README.md            # Project description and instructions
+│── requirements.txt     # Dependencies for easy installation
+│── LICENSE             # Open-source license (MIT, Apache, etc.)
+│── .gitignore          # Ignore unnecessary files
